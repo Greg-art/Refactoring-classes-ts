@@ -23,6 +23,14 @@
       "price": "25.90",
       "available": false,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.freepik.com%2Ffotos-vetores-gratis%2Fbico-de-pato&psig=AOvVaw11Ku5fA97JpxHnKVVesMcc&ust=1646328913145000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIDP-6P7p_YCFQAAAAAdAAAAABAD",
+      "name": "Pato cru",
+      "price": "24.69",
+      "description": "pato",
+      "available": true,
+      "id": 4
     }
   ]
 }
